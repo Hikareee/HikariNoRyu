@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+![uwnigav1iay51](https://github.com/HikariNoRyu/HikariNoRyu/assets/88818748/dcc1e768-2041-4508-84c1-026730440bfa)
+
 
 <!--
 **HikariNoRyu/HikariNoRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
